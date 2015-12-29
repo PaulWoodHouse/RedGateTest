@@ -1,3 +1,4 @@
 CREATE TABLE paul.fred (
-  col1 NUMBER(*,0) DEFAULT 0 NOT NULL
+  col1 NUMBER(*,0) DEFAULT 0 NOT NULL,
+  column1 VARCHAR2(20 BYTE)
 );
